@@ -1,0 +1,1 @@
+Take the input from the user and print the number of prime numbers.
