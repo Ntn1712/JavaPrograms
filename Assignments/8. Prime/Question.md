@@ -1,0 +1,1 @@
+Write a program that prompts the user to input a positive integer. It should then output a message indicating whether the number is a prime unmber;
